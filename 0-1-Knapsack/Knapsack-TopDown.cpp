@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-
+fslkgj
 int knapsack(int wts[], int val[], int n, int w) {
   int** t;
   t = new int*[n];
